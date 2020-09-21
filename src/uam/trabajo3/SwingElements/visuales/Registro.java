@@ -326,6 +326,7 @@ public class Registro extends javax.swing.JFrame {
         for(JCheckBox aux : listaApoyos){
             aux.setSelected(false);
         }
+        cbCdmx.setSelected(false);
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
